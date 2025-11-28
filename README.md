@@ -2,7 +2,7 @@
 
 # 🏡 Real Estate Price Prediction in Belgium
 
-A Machine Learning Pipeline for Accurate Property Valuation
+A Machine Learning Pipeline for Property Valuation
 
 ## 📌 Project Overview
 
